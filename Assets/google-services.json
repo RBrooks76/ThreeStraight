@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "182212612555",
+    "project_id": "three-straight",
+    "storage_bucket": "three-straight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182212612555:android:34130d29c171c72f55e64e",
+        "android_client_info": {
+          "package_name": "com.threestraight.llc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182212612555-1eqrueslc0lh4jbe2im2bf8ttv9dkpf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threestraight.llc",
+            "certificate_hash": "a6aa7838be79fbd91bc4792e6f441d87cc9a70a7"
+          }
+        },
+        {
+          "client_id": "182212612555-5r0o0h1pqarfuce3vebspgn47tlqd6se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threestraight.llc",
+            "certificate_hash": "cf049984820fbff35fb906f4ccac3a3d6734be5b"
+          }
+        },
+        {
+          "client_id": "182212612555-ic97m51vpd2fcd3pg3qh5ta3o04ep1v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threestraight.llc",
+            "certificate_hash": "8fd6eaeebc51abd88dfc983a5904cc94418af59b"
+          }
+        },
+        {
+          "client_id": "182212612555-lblq57k5hgodml9lml59jkom1tmlurni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threestraight.llc",
+            "certificate_hash": "e56fb14fd57be69832ae096fcc782cb08e776f8b"
+          }
+        },
+        {
+          "client_id": "182212612555-97ptqidikdm8hf5tcoj59omlckm1e7vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqO4ymaoQXxGBUiVD4n-yYdEiEirevHa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182212612555-97ptqidikdm8hf5tcoj59omlckm1e7vv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182212612555-8um1vg23ng0vurtrd64a8c66nrr79jm6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.threestraight.llc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

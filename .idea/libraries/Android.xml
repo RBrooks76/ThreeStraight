@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.google.guava.listenablefuture-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.parse.bolts.bolts-tasks-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.parse.bolts.bolts-android-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/org.jetbrains.annotations-13.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/androidx.lifecycle.lifecycle-common-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk8-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.parse.bolts.bolts-applinks-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/com.google.zxing.core-3.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/androidx.collection.collection-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-common-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/androidx.arch.core.core-common-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/org.jetbrains.kotlin.kotlin-stdlib-jdk7-1.5.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/androidx.room.room-common-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Assets/Plugins/Android/androidx.annotation.annotation-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

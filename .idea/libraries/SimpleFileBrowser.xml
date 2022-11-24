@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SimpleFileBrowser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Assets/Scripts/SimpleFileBrowser/Android/SimpleFileBrowser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
